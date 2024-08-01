@@ -58,4 +58,4 @@ def create_examples_from_csv(file_name):
 # print(read_example(2))
 # print(read_example(3))
 
-# print(get_all_examples())
+# print(read_all_examples())
